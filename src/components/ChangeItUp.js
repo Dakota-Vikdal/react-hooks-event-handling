@@ -19,8 +19,10 @@ function ChangeItUp() {
         <option value="completed">Completed</option>
         <option value="incomplete">Incomplete</option>
       </select>
+
     </div>
-  );
+  )
+
 }
 
 export default ChangeItUp;
